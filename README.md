@@ -121,7 +121,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ---
 
 ## 📩 Contact
-For any questions or feedback, reach out to the team at **[your-email@example.com]**.
+For any questions or feedback, reach out to the team at **[didulanethmina2000@gmail.com]**.
 
 ---
 
