@@ -81,7 +81,7 @@ The **IoT-Based Smart Pet Feeder** addresses these challenges by leveraging IoT 
 3. **Install dependencies for the mobile app:**
    ```bash
    cd mobile-app
-   npx expo install
+   npm install
    ```
 4. **Upload firmware to ESP32:**
    Use Arduino IDE or PlatformIO.
@@ -89,7 +89,7 @@ The **IoT-Based Smart Pet Feeder** addresses these challenges by leveraging IoT 
 ### 📱 Running the Mobile App
 1. **Start the development server:**
    ```bash
-   npm start
+   npx expo start
    ```
 2. **Run the app on a device or emulator:**
    ```bash
