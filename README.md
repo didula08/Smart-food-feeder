@@ -102,7 +102,12 @@ The **IoT-Based Smart Pet Feeder** addresses these challenges by leveraging IoT 
    ```
 
 ---
-![WhatsApp Image 2025-04-09 at 23 43 39_f9c0e949](https://github.com/user-attachments/assets/61ac58e7-8ffc-4c6e-b92c-e276c3d7a6c6) | ![WhatsApp Image 2025-04-09 at 23 43 39_a623fe53](https://github.com/user-attachments/assets/09557162-c66c-459b-b982-ec74e733f07a) | ![WhatsApp Image 2025-04-09 at 23 43 40_18654eaa](https://github.com/user-attachments/assets/cc6d06e7-c9e8-4270-a1c0-759210484748)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61ac58e7-8ffc-4c6e-b92c-e276c3d7a6c6" width="30%" />
+  <img src="https://github.com/user-attachments/assets/09557162-c66c-459b-b982-ec74e733f07a" width="30%" />
+  <img src="https://github.com/user-attachments/assets/cc6d06e7-c9e8-4270-a1c0-759210484748" width="30%" />
+</p>
+
 
 
 
