@@ -11,6 +11,9 @@
 ## ✨ Introduction
 The **IoT-Based Smart Pet Feeder** is a modern solution for pet care, offering automation and convenience. It ensures timely feeding, real-time food level monitoring, and portion customization through a mobile app, making pet care simpler and more efficient.
 
+![WhatsApp Image 2025-04-09 at 23 39 32_94dc530e](https://github.com/user-attachments/assets/18539dee-ae31-4e5a-983c-d8694139af95)
+
+
 ---
 
 ## 🚨 Problem and Solution
